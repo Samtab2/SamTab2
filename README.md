@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sammy Tabally</h1>
+<h1 align="center">Hi 👋, I'm Deaf and Sammy Tabally</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samtab2?tab=repositories](https://github.com/Samtab2?tab=repositories)
